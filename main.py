@@ -33,7 +33,7 @@ subjinc = -1
 class AutocompleteEntry(tkinter.Entry):
     """
        D Subclass of tkinter.Entry that features autocompletion.
-      To enable autocompletion use set_completion_list(list) to define   H
+      To enable autocompletion use set_completion_list(list) to define   H/
        R a list of possible strings to hit.
         To cycle through hits use down and up arrow keys. U
         V  Autocomplete help
